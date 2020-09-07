@@ -1,3 +1,4 @@
+![](https://i.ibb.co/df6N90T/Firefox-Screenshot-2020-09-07-T22-28-04-313-Z.png)
 # About <h1>
 This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.
 
